@@ -1,7 +1,7 @@
 <style>
 
 /* Rotating halftone */
-#element-1407, #element-1468 {
+#element-1761, #element-2272 {
     animation: rotate 115s linear infinite;
 }
 
@@ -12,7 +12,7 @@
 }
 
 /* Shy nav style */
-#page-block-9wcac0qfsj {
+#page-block-x3s5crmpbkk {
     background-color: #333;
     position: fixed;
     top: -70px;
@@ -28,19 +28,19 @@
 /* Hide shy nav on mobile */
 @media only screen and (max-width: 850px) {
 
-    #page-block-9wcac0qfsj {
+    #page-block-x3s5crmpbkk {
         display: none;
     }
 }
 
 /* Mobile nav style */
-#page-block-r87gaszmnu {
+#page-block-2pzbig6dsv6 {
     height: 5.9em;
     max-width: 100%;
     z-index: 999
 }
 
-#page-block-r87gaszmnu .section-block {
+#page-block-2pzbig6dsv6 .section-block {
     background: rgb(255, 255, 255);
     height: 5.9rem;
 }
@@ -48,7 +48,7 @@
 /* Hide mobile nav on desktop */
 @media only screen and (min-width: 850px) {
 
-    #page-block-r87gaszmnu {
+    #page-block-2pzbig6dsv6 {
         display: none;
     }
 }
